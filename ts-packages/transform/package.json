@@ -1,6 +1,6 @@
 {
   "name": "eosio-transform",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "Build tool for building AssemblyScript projects",
   "license": "MIT",
   "main": "index.ts",
@@ -16,7 +16,7 @@
     "tsconfig.json",
     "package.json",
     "index.ts",
-    "bin",
+    "bin/.bin/eosio-acc",
     "src"
   ],
   "dependencies": {
