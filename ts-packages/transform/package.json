@@ -1,9 +1,10 @@
 {
   "name": "eosio-transform",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "Build tool for building AssemblyScript projects",
   "license": "MIT",
-  "main": "index.ts",
+  "main": "index.js",
+  "types": "index.ts",
   "author": "yjhmelody <yjh465402634@gmail.com>",
   "scripts": {
     "checks": "tsc -p tsconfig.json --noEmit",
