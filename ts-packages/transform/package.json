@@ -1,8 +1,9 @@
 {
   "name": "eosio-transform",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "description": "Build tool for building AssemblyScript projects",
   "license": "MIT",
+  "type": "module",
   "main": "index.ts",
   "author": "yjhmelody <yjh465402634@gmail.com>",
   "scripts": {
