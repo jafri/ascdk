@@ -1,6 +1,6 @@
 {
   "name": "eosio-transform",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "Build tool for building AssemblyScript projects",
   "license": "MIT",
   "main": "index.js",
